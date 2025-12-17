@@ -159,3 +159,7 @@ main()
 ------
 
 如果你愿意，我可以画一张 **完整的 Spring Boot 启动流程图**，把 `SpringApplication`、`ApplicationContext`、`Bean 加载`、`事件` 等都标出来，直观又清楚。
+
+![img](https://i-blog.csdnimg.cn/img_convert/101803c0eaa32fdbd30cf90455c6c1f6.png)
+
+![img](https://i-blog.csdnimg.cn/img_convert/fc9a004695ecfc839f22f774af266c6d.png)

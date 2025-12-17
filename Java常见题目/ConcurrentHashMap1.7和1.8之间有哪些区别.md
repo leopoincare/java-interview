@@ -210,6 +210,3 @@ map.reduce()
 | size 统计 | 遍历 Segment    | LongAdder 思路     |
 | 性能      | 中              | 高（显著提升）     |
 
-------
-
-> 
